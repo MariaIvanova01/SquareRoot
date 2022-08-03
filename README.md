@@ -4,11 +4,11 @@ Write a program that reads an integer number and calculates and prints its squar
 
 Input |	Output
 ------|--------
-9 |	3.00
-  |Goodbye
+9  |	3.00
+<no inout>   |Goodbye
 20 |	4.47
-   |Goodbye
+ <no inout>  |Goodbye
 Xx |	Invalid
-   |Goodbye
+ <no inout>  |Goodbye
 -5 |	Invalid
-   |Goodbye
+ <no inout>  |Goodbye
